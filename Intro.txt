@@ -1,0 +1,5 @@
+1.Backend：Springboot(使用IDEA打开)，Maven进行依赖管理，直接运行即可
+2.Material: 安装angular后，使用npm start指令（已配置代理）
+3.Jupyter: 搜索NREL，github上有xrd的爬虫。这里我自己写了一个新爬虫，爬取NREL数据库自动生成相关格式的文件，如需定制，请自行添加字段。
+4.Database: 安装mariaDB，mysql也行（但需要修改驱动），需要自己建立一个名为material的数据库，建表由ORM完成。我这里设置的密码是123456
+5.Resource: https://htem-api.nrel.gov/
